@@ -93,15 +93,6 @@ After 5 cross validation runs I get a mean accuracy of 98.9%. To test it I made 
 ## Conclusion
 This article has gone through the fundementals of Convolutional Neural Networks, and I hope you have learnt something from this. If you have then please star this repo as more articles are yet to come.
 
----
-title: "Convolutional Neural Networks Explained"
-date: "02-05-2022"
-categories: 
-  - "deep-learning"
-tags: 
-  - "cnn"
-  - "computer-vision"
-  - "convolutional-neural-networks"
-  - "deep-learning"
-  - "neural-networks"
----
+| Title                                   | Date       | Categories    | Tags                                                                                |
+|-----------------------------------------|------------|---------------|-------------------------------------------------------------------------------------|
+| Convolutional Neural Networks Explained | 02-05-2022 | Deep Learning | CNN, Computer Vision, Convolutional Neural Networks, Deep Learning, Neural Networks |
