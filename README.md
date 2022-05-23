@@ -3,3 +3,4 @@ This repository is a curated list of various deep learning/machine learning topi
 
 ## Table of Contents
  - [Convolutional Neural Networks Explained](Resources/Convolutional-Neural-Networks-Explained)
+ - [Reinforcement Learning Explained Using Q Learning](Resources/Reinforcement-Learning-Explained-Using_QLearning)
