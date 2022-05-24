@@ -4,8 +4,8 @@ This repository is a curated list of various deep learning/machine learning topi
 ## Table of Contents
 All topic are decomposed into their respective fields.
 
-## Computer Vision
+### Computer Vision
  - [Convolutional Neural Networks Explained](Resources/Convolutional-Neural-Networks-Explained)
 
-## Reinforcement Learning
+### Reinforcement Learning
  - [Reinforcement Learning Explained Using Q Learning](Resources/Reinforcement-Learning-Explained-Using_QLearning)
